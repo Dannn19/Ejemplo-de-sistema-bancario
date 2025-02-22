@@ -27,5 +27,4 @@ BankFi es un sistema bancario desarrollado en C# y .NET que permite la gestión 
   Puedes disfrutar de algunas de estas ofertas con tu cuenta 
   - https://www.liverpool.com.mx/tienda/?s=ofertas//
 
-  ## Instalación
   
